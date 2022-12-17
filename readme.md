@@ -1,4 +1,4 @@
-This code defines classes and functions for a simple blackjack game.
+This code defines classes and functions for a simple blackjack game using Python.
 
 The Card class represents a single playing card, with a suit and rank. The str method allows the card to be printed in a human-readable format.
 
